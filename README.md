@@ -1,0 +1,2 @@
+# What this folder is for?
+This folder contains downloadable logos, banners, posters and other such marks and documents. When most documents are expected to be licensed under a [Creative Commons Attribution- International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license, please see the individual file licenses, and the [licensing page](https://theofdn.org/licensing/) for details on exceptions and details.
