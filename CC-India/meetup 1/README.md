@@ -1,1 +1,0 @@
-The CC-India meetup was organized by volunteers in two cities — Bengaluru and Delhi — and online as well. This folder contains reports, pictures, and all other documents captured during the event all licensed under CC-BY-SA 4.0 International license.
